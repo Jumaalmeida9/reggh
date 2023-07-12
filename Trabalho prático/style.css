@@ -1,0 +1,39 @@
+title {
+    color: blue;
+}
+.services-area .container .row .main-title {
+    color: blue;
+}
+
+.services-area .container .row .h3 {
+    text-decoration-color: aliceblue;
+}
+
+.services-menu .container .row .col-12 .main-title {
+    color: darkorange;
+}
+.destino-favorito .container .row .col-12 .main-title {
+    color:powderblue;
+}
+
+ .container .row .col-12 .main-title {
+    color:powderblue;
+}
+.pacote .container .row .col-12 .main-title {
+   color:darkgoldenrod;
+}
+.portifoli-menu .container .row .col-12 .main-title {
+    color:blue;
+}
+.suporte .container .row .col-12 .main-title {
+    color:darkgoldenrod;
+}
+.col-12 .main-title {
+    color:blue;
+}
+.depoimento .container .row .col-12 .main-title {
+    color:darkgoldenrod;
+}
+.col-12 .main-title {
+    color:blue;
+}
